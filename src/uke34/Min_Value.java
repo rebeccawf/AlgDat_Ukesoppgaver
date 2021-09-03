@@ -31,5 +31,5 @@ public class Min_Value {
         //returnerer indexen til den minste verdien. 
         return min_index;
     }
-
+//test
 }
